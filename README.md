@@ -43,10 +43,6 @@ Netflix-Landing-Page
 
 1. Download or clone this repository.
 
-```
-git clone https://github.com/your-username/netflix-landing-page.git
-```
-
 2. Open the project folder.
 
 3. Open **index.html** in any web browser.
